@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Anton-Mochinsky/ahj-diploma-chaos_organizer-backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Anton-Mochinsky/ahj-diploma-chaos_organizer-backend/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Anton-Mochinsky/ahj-diploma-chaos_organizer-backend#readme",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "@koa/cors": "^5.0.0",
